@@ -15,9 +15,9 @@
 海螺水泥数字化HR系统运用科技力量，引入电子印章、人脸识别、简历解析等多种智能技术，带来全新的数字化工作体验。随着项目开展，其他功能模块陆续上线，最终覆盖员工职业生涯全周期。系统也会“快速迭代，小步快跑”，持续优化升级。 
 ![image](https://user-images.githubusercontent.com/5785800/144016406-779ce2b0-945e-47e7-8421-98cbd73e5bda.png)
 海螺水泥数字化HR系统PC端网址：
-http://hr-fly.chinaconch.com/corehr/#/home
-登录用户名：员工工号
-初始密码：身份证件号后6位
-安卓用户快快下载APP安装、登录（IOS用户敬请期待）
-![image](https://user-images.githubusercontent.com/5785800/144016451-355c9f50-9d6f-426e-a905-074f5619c0d2.png)
+https://hr-fly.chinaconch.com/
+<p>登录用户名：员工工号</p>
+<p>初始密码：身份证件号后6位</p>
+<p>安卓用户快快下载APP安装、登录（IOS用户敬请期待）</p>
+![image](https://user-images.githubusercontent.com/5785800/144019378-08e4e920-69dc-420b-80fd-e5ebb500cf0e.png)
 <p align="right">（海螺水泥数字化人力资源平台项目组）</p>
