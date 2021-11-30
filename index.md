@@ -20,4 +20,4 @@ http://hr-fly.chinaconch.com/corehr/#/home
 初始密码：身份证件号后6位
 安卓用户快快下载APP安装、登录（IOS用户敬请期待）
 ![image](https://user-images.githubusercontent.com/5785800/144016451-355c9f50-9d6f-426e-a905-074f5619c0d2.png)
-							（海螺水泥数字化人力资源平台项目组）
+<font style="align=right">（海螺水泥数字化人力资源平台项目组）</font>
